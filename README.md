@@ -1,67 +1,64 @@
-Scientific Calculator 🖤✨
-
-Made using Python & Tkinter
+Scientific Calculator
 
 Description
 
-This is a GUI-based Scientific Calculator built using Python's Tkinter library.
-It supports basic arithmetic as well as advanced scientific functions, all in a clean, modern, dark-themed interface.
+This is a GUI-based Scientific Calculator built using Python and Tkinter.
+It supports basic arithmetic operations and advanced scientific functions in a modern, dark-themed interface.
+The calculator is fully functional and can be used for real-time calculations.
 
-It was designed to be fully functional, interactive, and portfolio-ready, showcasing skills in GUI design, Python logic, and math operations.
 
 Features
 
-Basic operations: +, -, *, /, .
+Basic Operations: +, -, *, /, .
 
-Advanced functions: sin, cos, tan, log, sqrt, x², x³, 1/x
+Advanced Functions: sin, cos, tan, log, sqrt, x², x³, 1/x
 
 Clear (C) and Evaluate (=) buttons
 
-Dark glass-style UI with hover effects
+Dark theme GUI with hover effects for buttons
 
-Error handling for invalid inputs
+Error Handling for invalid inputs
 
-Fully interactive GUI, works offline with Python
+Fully interactive GUI, no backend required
 
-How to Use
 
-Clone or download the repository
+Installation
 
-Ensure Python is installed (version 3.x)
+Make sure Python 3.x is installed on your system.
 
-Run the calculator:
+Download or clone the repository.
+
+Run the Python file:
 
 python calculator_enhanced.py
 
 
-Click buttons to input numbers or functions
+Usage
 
-Press = to calculate the result
+Click buttons to input numbers or functions.
 
-Press C to clear the input
+Press = to calculate the result.
+
+Press C to clear the input.
+
+Advanced functions can be applied to the current input (e.g., sin, sqrt).
+
 
 Tech Stack
 
 Python 3 – Programming language
 
-Tkinter – GUI library
+Tkinter – GUI framework
 
-Math module – Scientific functions
+Math Module – For scientific calculations
 
-Notes
-
-Created as a portfolio-ready project to showcase GUI design and logic
-
-Designed with love ❤️, modern aesthetics, and usability in mind
-
-Great for learning Python GUI, scientific computation, and interactive apps
 
 Future Enhancements
 
 Keyboard input support
 
-History panel for past calculations
+History panel to display previous calculations
 
-Theme toggle: Dark / Light mode
+Theme toggle (Dark / Light)
 
 Advanced memory functions (M+, MR, MC)
